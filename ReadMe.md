@@ -11,7 +11,6 @@ I am SengKoo Jeung, currently enrolled in the Department of Information and Comm
 <!DOCTYPE html>
 <html>
 <head>
-  <title>자기 소개</title>
 </head>
 <body>
   <h2>기술 (Skills)</h2>
