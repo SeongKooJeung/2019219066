@@ -1,65 +1,44 @@
-# Welcome to our website.
+# 소개 (Introduction)
+저의 웹페이지에 오신것을 환영합니다.
+## 이름 (Name)
+정승구 (SeongKoo Jeung)
 
-## Hello. My name is Seung-gu Jeong, a student at Semyeong University.  I am studying with the goal of becoming a backend developer.
+## 자기소개 (About Me)
+세명대학교 정보통신학부에 재학중인 정승구입니다. 백엔드, DB 개발을 목표로 학습하고있습니다.
 
 
+I am SengKoo Jeung, currently enrolled in the Department of Information and Communication at Semyung University. I am learning with the goal of developing backend and DB.
 <!DOCTYPE html>
 <html>
 <head>
-  <title>HTML 예시</title>
-  <style>
-    .content {
-      display: none;
-      margin-top: 10px;
-    }
-    
-    .content.show {
-      display: block;
-    }
-  </style>
-  <script>
-    function showTab(tabName) {
-      var tabs = document.getElementsByClassName('content');
-      for (var i = 0; i < tabs.length; i++) {
-        tabs[i].classList.remove('show');
-      }
-  
-      document.getElementById(tabName).classList.add('show');
-    }
-  </script>
+  <title>자기 소개</title>
 </head>
 <body>
-  <header>
-    <h1>Let me introduce myself.</h1>
-    <nav>
-      <ul>
-        <li><a href="#" onclick="showTab('learned')">Things I have learned</a></li>
-        <li><a href="#" onclick="showTab('learning')">Things I am learning</a></li>
-        <li><a href="#" onclick="showTab('want')">Things I want to learn</a></li>
-      </ul>
-    </nav>
-  </header>
-  
-  <main>
-    <h2>콘텐츠 제목</h2>
-    <p>이곳에 내용을 작성합니다.</p>
-    <img src="이미지 주소" alt="이미지 설명">
-    
-    <div id="learned" class="content">
-        <img src="https://img.shields.io/badge/C++-Language-blue?style=social" alt="C++ Language Badge">
-    </div>
-  
-    <div id="learning" class="content">
-      <!-- 배우고 있는 프로그래밍 언어 뱃지들을 여기에 추가하세요 -->
-    </div>
-  
-    <div id="want" class="content">
-      <!-- 배우고 싶은 프로그래밍 언어 뱃지들을 여기에 추가하세요 -->
-    </div>
-  </main>
-  
-  <footer>
-    <p>Email: songkoo0229@gmail.com</p>
-  </footer>
+  <h2>기술 (Skills)</h2>
+  <ui>
+    <li>
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white">
+      <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+      <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">
+      <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+      <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+    </li>
+  <ui>
+
+  <h2>SNS</h2>
+  <ul>
+    <li>GitHub: <a href="[GitHub 프로필 링크를 입력하세요]">GitHub 프로필</a></li>
+    <li>LinkedIn: <a href="[LinkedIn 프로필 링크를 입력하세요]">LinkedIn 프로필</a></li>
+  </ul>
 </body>
 </html>
+
+## 연락 (Contact)
+- Email: songkoo0229@gmail.com
+
