@@ -6,54 +6,31 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>프로그램 분류</title>
+    <title>기술</title>
 </head>
 <body>
     <h2>프로그래밍 언어</h2>
-    <ul>
-        
-            <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" onclick="window.open('https://en.wikipedia.org/wiki/C_(programming_language)', '_blank')">
-        
-        
-            <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" onclick="window.open('https://en.wikipedia.org/wiki/C%2B%2B', '_blank')">
-        
-       
-            <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" onclick="window.open('https://www.java.com/', '_blank')">
-        
-            <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" onclick="window.open('https://www.python.org/', '_blank')">
-        
-    </ul>
+    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" onclick="window.open('https://en.wikipedia.org/wiki/C_(programming_language)', '_blank')">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" onclick="window.open('https://en.wikipedia.org/wiki/C%2B%2B', '_blank')">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" onclick="window.open('https://www.java.com/', '_blank')">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" onclick="window.open('https://www.python.org/', '_blank')">
 
     <h2>개발 도구</h2>
-    <ul>
-        
-            <img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white" onclick="window.open('https://www.docker.com/', '_blank')">
-
-            <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" onclick="window.open('https://developer.android.com/studio', '_blank')">
-       
-            <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" onclick="window.open('https://git-scm.com/', '_blank')">
-       
-            <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" onclick="window.open('https://github.com/', '_blank')">
-       
-    </ul>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white" onclick="window.open('https://www.docker.com/', '_blank')">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" onclick="window.open('https://developer.android.com/studio', '_blank')">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" onclick="window.open('https://git-scm.com/', '_blank')">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" onclick="window.open('https://github.com/', '_blank')">
 
     <h2>데이터베이스</h2>
-    <ul>
-       
-            <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" onclick="window.open('https://www.mysql.com/', '_blank')">
-       
-    </ul>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" onclick="window.open('https://www.mysql.com/', '_blank')">
 
     <h2>운영 체제</h2>
-    <ul>
-       
-            <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" onclick="window.open('https://ubuntu.com/', '_blank')">
-       
-            <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" onclick="window.open('https://www.linux.org/', '_blank')">
-        
-    </ul>
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" onclick="window.open('https://ubuntu.com/', '_blank')">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" onclick="window.open('https://www.linux.org/', '_blank')">
 </body>
 </html>
+
+
 
 
 
