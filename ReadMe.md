@@ -1,14 +1,17 @@
 # 소개 (Introduction)
-저의 웹페이지에 오신것을 환영합니다. 세명대학교 정보통신학부에 재학중인 정승구입니다. 백엔드, DB 개발을 목표로 학습하고있습니다.
-## 이름 (Name)
-정승구 (SeongKoo Jeung)
+세명대학교 정보통신학부에 재학중인 정승구입니다.
+## 목표
+백엔드, DB 개발을 목표로 학습하고 있습니다. 지금은 Spring Framework를 준비 중이고 최종 목표는 백엔드를 주로 하고 있지만 풀스텍 개발자가 되는 것입니다.
+
+## 프로젝트
+3학년 2학기에 실시하는 캡스톤 디자인을 통해 프로젝트를 만들 예정입니다.
 
 <!DOCTYPE html>
 <html>
 <head>
 </head>
 <body>
-    <h2>프로그래밍 언어</h2>
+    <h2>언어</h2>
     <div>
         <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" onclick="window.open('https://en.wikipedia.org/wiki/C_(programming_language)', '_blank')">
         <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" onclick="window.open('https://en.wikipedia.org/wiki/C%2B%2B', '_blank')">
@@ -48,10 +51,56 @@
 | 18:00 - 24:00    |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |
 | 24:00 - 06:00    |     |     |     |     |     |  ✓   |  ✓  |
 
-#### 연락 (Contact)
-Email: songkoo0229@gmail.com  
-Discord: 정승구#5264
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact</title>
+    <style>
+        .badge {
+            display: inline-block;
+            padding: 10px;
+            border-radius: 4px;
+            background-color: #007bff;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            text-decoration: none;
+        }
+
+        .email-badge {
+            background-color: #007bff;
+            font-weight: bold;
+        }
+
+        .discord-badge {
+            background-color: #7289DA;
+            font-weight: bold;
+        }
+
+        .badge-icon {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            vertical-align: middle;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h2>연락처</h2>
+    <div>
+        <a href="mailto:songkoo0229@gmail.com" class="badge email-badge">
+            <img src="https://img.icons8.com/material-rounded/24/ffffff/email.png" class="badge-icon">
+            Email
+        </a>
+        <a href="https://discordapp.com/users/정승구#5264" class="badge discord-badge">
+            <img src="https://img.icons8.com/material-sharp/24/ffffff/discord-logo.png" class="badge-icon">
+            Discord
+        </a>
+    </div>
+</body>
+</html>
 
   
     
-###### HomePage version 1.0
+###### HomePage version 1.1
