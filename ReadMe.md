@@ -6,7 +6,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>기술</title>
 </head>
 <body>
     <h2>프로그래밍 언어</h2>
