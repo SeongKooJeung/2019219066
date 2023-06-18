@@ -58,7 +58,6 @@
    
 </head>
 <body>
-    <h2>Contact Information</h2>
     <div>
         <title>Contact</title>
         <a href="mailto:songkoo0229@gmail.com" class="badge email-badge">
