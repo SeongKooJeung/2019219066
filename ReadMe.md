@@ -58,8 +58,8 @@
    
 </head>
 <body>
+<h2>연락처</h2>
     <div>
-        <title>Contact</title>
         <a href="mailto:songkoo0229@gmail.com" class="badge email-badge">
             <img src="https://img.icons8.com/material-rounded/24/ffffff/email.png" class="badge-icon">
             Email
