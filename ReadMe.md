@@ -1,9 +1,9 @@
-# ☑️소개
+# ☑️  소개
 세명대학교 정보통신학부에 재학중인 정승구입니다.
-## 🚩목표
+## 🚩  목표
 백엔드, DB 개발을 목표로 학습하고 있습니다. 지금은 Spring Framework를 준비 중이고 최종 목표는 백엔드를 주로 하고 있지만 풀스텍 개발자가 되는 것입니다.
 
-## 📔프로젝트
+## 📔  프로젝트
 3학년 2학기에 실시하는 캡스톤 디자인을 통해 프로젝트를 만들 예정입니다.
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@
 <head>
 </head>
 <body>
- <h2>🛠️사용 도구 및 언어</h2>
+ <h2>🛠️  사용 도구 및 언어</h2>
     <h3>언어</h3>
     <div>
         <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" onclick="window.open('https://en.wikipedia.org/wiki/C_(programming_language)', '_blank')">
@@ -44,7 +44,7 @@
 
 
 
-## 활동 시간대
+## 🕛  활동 시간대
 |                  | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------------------|-----|-----|-----|-----|-----|-----|-----|
 | 06:00 - 12:00    |     |     |     |     |  ✓  |  ✓  |  ✓  |
@@ -58,7 +58,7 @@
    
 </head>
 <body>
-<h2>연락처</h2>
+<h2>📞  연락처</h2>
     <div>
         <a href="mailto:songkoo0229@gmail.com" class="badge email-badge">
             <img src="https://img.icons8.com/material-rounded/24/ffffff/email.png" class="badge-icon">
