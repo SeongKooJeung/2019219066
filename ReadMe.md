@@ -11,6 +11,7 @@
 <head>
 </head>
 <body>
+ <h2>사용 도구 및 언어</h2>
     <h2>언어</h2>
     <div>
         <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" onclick="window.open('https://en.wikipedia.org/wiki/C_(programming_language)', '_blank')">
